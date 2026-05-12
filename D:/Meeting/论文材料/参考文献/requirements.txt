@@ -1,0 +1,5 @@
+PyQt5
+pypdf
+pywin32
+pyinstaller
+
