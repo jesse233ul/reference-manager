@@ -1,2 +1,0 @@
-# reference-manager
-reference-manager
