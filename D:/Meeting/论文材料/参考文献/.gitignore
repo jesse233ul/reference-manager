@@ -1,0 +1,16 @@
+*.pdf
+*.doc
+*.docx
+*.sqlite3
+*.rar
+
+_reference_manager_qt/
+dist/
+build/
+__pycache__/
+*.pyc
+
+_delete_test/
+_manual_test/
+_residue_test/
+
